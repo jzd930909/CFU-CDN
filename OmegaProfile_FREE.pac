@@ -750,6 +750,7 @@ var domains = {
   "fflick.com": 1, 
   "fgmtv.net": 1, 
   "fgmtv.org": 1, 
+  "fitgirllv.com": 1, 
   "filefactory.com": 1, 
   "files2me.com": 1, 
   "fileserve.com": 1, 
