@@ -2175,6 +2175,7 @@ var domains = {
   "tuidang.net": 1, 
   "tuidang.org": 1, 
   "tuitui.info": 1, 
+  "tumblr.com": 1, 
   "tumblweed.org": 1, 
   "tumutanzi.com": 1, 
   "tunein.com": 1, 
