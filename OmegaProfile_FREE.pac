@@ -1762,6 +1762,7 @@ var domains = {
   "rapidgator.net": 1, 
   "rapidshare8.com": 1, 
   "rapidsharedata.com": 1, 
+  "rarbg.to": 1, 
   "rcinet.ca": 1, 
   "rdio.com": 1, 
   "read100.com": 1, 
