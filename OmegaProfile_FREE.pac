@@ -734,6 +734,7 @@ var domains = {
   "fb.com": 1, 
   "fb.me": 1, 
   "fbcdn.net": 1, 
+  "*.fbcdn.net": 1, 
   "fbsbx.com": 1, 
   "fc2.com": 1, 
   "fc2blog.net": 1, 
